@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:url("https://gileduardo.com.br/ifpr/dw/img/background.png");
+}
+#menu{
+    background-color: darkblue;
+    text-align: center;
+    padding: 40px;
+    border: 2px solid white;
+    border-bottom: 8px solid aqua;
+    padding-left: 5px;
+    
+}
+#topo {
+    font-size: xx-large;
+    color: darkblue
+    
+}
+#cabeçalho{
+    text-decoration: none;
+    color: darkblue;
+    font-size: xx-large;
+
+}
+#menu a{
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+    margin: 0, 20px;
+}
+a:haver, a:active, i:active, i:haver{
+
+    color:rgb(0, 0, 0)
+}
